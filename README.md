@@ -12,6 +12,8 @@ python, flask, openAI GPT2.
 GPT2 is a very powerfull text generator developed by openAI, and was trained on text from the web. In theory if given enough data it can be used to generate valid SQL querries for any database.  
   
 # ScreenShots:  
+Note: system is connected to a hospital database (hospital_1.sqlite from sparc dataset).  
+
 ![img1](pic4.JPG)  
   
     
