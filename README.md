@@ -17,4 +17,10 @@ Note: system is connected to a hospital database (hospital_1.sqlite from sparc d
 ![img1](pic4.JPG)  
   
     
-![img2](image2.JPG)
+![img2](image2.JPG)  
+  
+    
+# Team:  
+https://github.com/FancyWhale69/  
+https://github.com/sultan-1/  
+https://github.com/AhmedF305/
