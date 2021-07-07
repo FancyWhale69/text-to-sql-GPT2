@@ -1,16 +1,19 @@
 # text-to-sql-GPT2  
+    
 
-# About:  
-My graduation project from King Abulaziz University Computer Science Department. The project goal is to build a system to retrive data from any database
-it connects to.  
-Note: project will be available after my graduation.
+# Project Motivation  
+The project aim to simplify the interactions with SQL databases by removing the need of writing SQL queries, instead users will ask a natural language (English) question.  
 
-# Tools:  
-python, flask, openAI GPT2.  
+features:  
+1- works with any SQL database.  
+2- use natural language (English) instead of SQL to interact with the database.  
+3- returned answer is formatted to look like a human responce.  
 
-# Why GPT2:  
-GPT2 is a very powerfull text generator developed by openAI, and was trained on text from the web. In theory if given enough data it can be used to generate valid SQL querries for any database.  
- 
+
+# File Descriptions  
+Text_To_SQL_report.pdf: Final report ducomnting the process of bulding the project.  
+Text_To_SQL_preasntation.pptx: Preasintation summarizing the project.  
+
 # Diagrams:  
 
 Flow Chart:  
@@ -19,16 +22,15 @@ Flow Chart:
 Sequence Diagram:  
 ![seq](seq.jpg)
 
-# ScreenShots:  
-Note: system is connected to a hospital database (hospital_1.sqlite from sparc dataset).  
+# Program in action  
+ 
 
-![img1](pic4.JPG)  
-  
-    
-![img2](image2.JPG)  
-  
-    
-# Team:  
-https://github.com/FancyWhale69/  
-https://github.com/sultan-1/  
-https://github.com/AhmedF305/
+
+# Acknowledgment  
+Special thanks to Dr.Muhammed Dahab for his supervision and guidance through the whole project.  
+Also a Special thanks to my team members for their hard work and cooperation.  
+
+Team:  
+[Hazim](https://github.com/FancyWhale69/) 
+[Sultan](https://github.com/sultan-1/)
+[Ahmed](https://github.com/AhmedF305/)
