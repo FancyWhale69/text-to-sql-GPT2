@@ -24,20 +24,21 @@ Sequence Diagram:
 
 # Program in action  
 
-![demo1](demo1.gif)
- 
+![demo1](demo1.gif)  
+
+![demo1](demo2.gif)  
 
 
-# Acknowledgment  
-Datasets:  
-[SParC](https://yale-lily.github.io/sparc)  
-[Spider](https://yale-lily.github.io/spider)  
-[CoSQL](https://yale-lily.github.io/cosql)  
-  
+# Acknowledgment    
 Special Thanks:  
 Special thanks to Dr.Muhammed Dahab for his supervision and guidance through the whole project, also a Special thanks to my team members for their hard work and cooperation.  
 
 Team:  
 [Hazim](https://github.com/FancyWhale69/)  
 [Sultan](https://github.com/sultan-1/)  
-[Ahmed](https://github.com/AhmedF305/)
+[Ahmed](https://github.com/AhmedF305/)  
+
+Datasets:  
+[SParC](https://yale-lily.github.io/sparc)  
+[Spider](https://yale-lily.github.io/spider)  
+[CoSQL](https://yale-lily.github.io/cosql) 
