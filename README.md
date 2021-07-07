@@ -23,14 +23,21 @@ Sequence Diagram:
 ![seq](seq.jpg)
 
 # Program in action  
+
+![demo1](demo1.gif)
  
 
 
 # Acknowledgment  
-Special thanks to Dr.Muhammed Dahab for his supervision and guidance through the whole project.  
-Also a Special thanks to my team members for their hard work and cooperation.  
+Datasets:  
+[SParC](https://yale-lily.github.io/sparc)  
+[Spider](https://yale-lily.github.io/spider)  
+[CoSQL](https://yale-lily.github.io/cosql)  
+  
+Special Thanks:  
+Special thanks to Dr.Muhammed Dahab for his supervision and guidance through the whole project, also a Special thanks to my team members for their hard work and cooperation.  
 
 Team:  
-[Hazim](https://github.com/FancyWhale69/) 
-[Sultan](https://github.com/sultan-1/)
+[Hazim](https://github.com/FancyWhale69/)  
+[Sultan](https://github.com/sultan-1/)  
 [Ahmed](https://github.com/AhmedF305/)
